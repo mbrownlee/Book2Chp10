@@ -1,0 +1,46 @@
+{
+  "food": [
+    {
+      "id": 1,
+      "name": "Volcano Roll",
+      "category": "sushi",
+      "ethnicity": "Japanese"
+    },
+    {
+      "id": 2,
+      "name": "Pho",
+      "category": "soup",
+      "ethnicity": "Thai"
+    },
+    {
+      "id": 3,
+      "name": "Mushroom Risotto",
+      "category": "rice",
+      "ethnicity": "Italian"
+    },
+    {
+      "id": 4,
+      "name": "Weinerschnitzel",
+      "category": "meat",
+      "ethnicity": "German"
+    },
+    {
+      "id": 5,
+      "name": "Shrimp Tacos",
+      "category": "taco",
+      "ethnicity": "Mexican"
+    },
+    {
+      "id": 6,
+      "name": "Birra de Puerco",
+      "category": "meat",
+      "ethnicity": "Mexican"
+    },
+    {
+      "name": "Macaroni and Cheese",
+      "category": "pasta",
+      "ethnicity": "American",
+      "id": 7
+    }
+  ]
+}
